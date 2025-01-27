@@ -1,4 +1,4 @@
-Complex ID,Is Complex,Number Of Stations In Complex,Stop Name,Display Name,Constituent Station Names,Station IDs,GTFS Stop IDs,Borough,CBD,Daytime Routes,Structure Type,Latitude,Longitude,ADA,ADA Notes
+Complex ID,Is Complex,Number Of Stations In Complex,Stop Name,Display Name,Constituent Station Names,Station IDs, ,Borough,CBD,Daytime Routes,Structure Type,Latitude,Longitude,ADA,ADA Notes
 1,FALSE,1,Astoria-Ditmars Blvd,Astoria-Ditmars Blvd (N W),Astoria-Ditmars Blvd,1,R01,Q,FALSE,N W,Elevated,40.775036,-73.912034,0,
 2,FALSE,1,Astoria Blvd,Astoria Blvd (N W),Astoria Blvd,2,R03,Q,FALSE,N W,Elevated,40.770258,-73.917843,1,
 3,FALSE,1,30 Av,30 Av (N W),30 Av,3,R04,Q,FALSE,N W,Elevated,40.766779,-73.921479,0,
